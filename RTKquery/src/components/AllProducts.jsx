@@ -1,4 +1,3 @@
-import React from "react";
 import { useGetAllProductsQuery } from "../app/service/dummyData";
 
 const AllProducts = () => {
